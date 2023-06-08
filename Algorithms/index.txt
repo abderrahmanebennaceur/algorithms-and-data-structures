@@ -1,0 +1,102 @@
+100 algorithm exercises for beginners:
+
+1. Write a program to find the sum of two numbers.
+2. Write a program to find the product of two numbers.
+3. Write a program to find the difference between two numbers.
+4. Write a program to find the quotient of two numbers.
+5. Write a program to find the remainder of two numbers.
+6. Write a program to find the largest number in a list of numbers.
+7. Write a program to find the smallest number in a list of numbers.
+8. Write a program to check if a number is even or odd.
+9. Write a program to check if a number is prime.
+10. Write a program to find the factorial of a number.
+11. Write a program to find the Fibonacci sequence.
+12. Write a program to check if a string is a palindrome.
+13. Write a program to reverse a string.
+14. Write a program to sort a list of numbers.
+15. Write a program to merge two sorted lists.
+16. Write a program to implement a binary search.
+17. Write a program to implement a linear search.
+18. Write a program to find the median of a list of numbers.
+19. Write a program to find the mode of a list of numbers.
+20. Write a program to find the range of a list of numbers.
+21. Write a program to find the standard deviation of a list of numbers.
+22. Write a program to find the variance of a list of numbers.
+23. Write a program to find the GCD of two numbers.
+24. Write a program to find the LCM of two numbers.
+25. Write a program to find the roots of a quadratic equation.
+26. Write a program to implement bubble sort.
+27. Write a program to implement selection sort.
+28. Write a program to implement insertion sort.
+29. Write a program to implement quicksort.
+30. Write a program to implement mergesort.
+31. Write a program to implement heapsort.
+32. Write a program to implement radix sort.
+33. Write a program to implement counting sort.
+34. Write a program to implement bucket sort.
+35. Write a program to implement shell sort.
+36. Write a program to implement comb sort.
+37. Write a program to implement cocktail sort.
+38. Write a program to implement gnome sort.
+39. Write a program to implement stooge sort.
+40. Write a program to implement bogo sort.
+41. Write a program to implement cocktail shaker sort.
+42. Write a program to implement cycle sort.
+43. Write a program to implement library sort.
+44. Write a program to implement tree sort.
+45. Write a program to implement smooth sort.
+46. Write a program to implement odd-even sort.
+47. Write a program to implement bitonic sort.
+48. Write a program to implement pancake sort.
+49. Write a program to implement heap sort using priority queue.
+50. Write a program to implement shell sort using gap sequence.
+51. Write a program to implement binary search using recursion.
+52. Write a program to implement linear search using recursion.
+53. Write a program to find the sum of all elements in a list.
+54. Write a program to find the product of all elements in a list.
+55. Write a program to find the difference between the maximum and minimum elements in a list.
+56. Write a program to find the number of occurrences of a specific element in a list.
+57. Write a program to find the second largest element in a list.
+58. Write a program to find the second smallest element in a list.
+59. Write a program to check if a list is sorted.
+60. Write a program to find the sum of two matrices.
+61. Write a program to find the product of two matrices.
+62. Write a program to check if two matrices are equal.
+63. Write a program to check if a matrix is symmetric.
+64. Write a program to check if a matrix is diagonal.
+65. Write a program to check if a matrix is identity.
+66. Write a program to transpose a matrix.
+67. Write a program to find the determinant of a matrix.
+68. Write a program to find the inverse of a matrix.
+69. Write a program to implement the Euclidean algorithm to find the GCD of two numbers.
+70. Write a program to implement the extended Euclidean algorithm to find the GCD of two numbers and their coefficients.
+71. Write a program to implement the Sieve of Eratosthenes to find all prime numbers up to a given limit.
+72. Write a program to implement the Sieve of Sundaram to find all prime numbers up to a given limit.
+73. Write a program to implement the Sieve of Atkin to find all prime numbers up to a given limit.
+74. Write a program to implement the Rabin-Karp algorithm for string matching.
+75. Write a program to implement the Boyer-Moore algorithm for string matching.
+76. Write a program to implement the Knuth-Morris-Pratt algorithm for string matching.
+77. Write a program to find the intersection of two lists.
+78. Write a program to find the union of two lists.
+79. Write a program to find the difference of two lists.
+80. Write a program to find the symmetric difference of two lists.
+81. Write a program to implement the Josephus problem.
+82. Write a program to implement the Towers of Hanoi.
+83. Write a program to implement the Dijkstra's algorithm for shortest path in a graph.
+84. Write a program to implement the Bellman-Ford algorithm for shortest path in a graph.
+85. Write a program to implement the Floyd-Warshall algorithm for all pairs shortest path in a graph.
+86. Write a program to implement the Prim's algorithm for minimum spanning tree in a graph.
+87. Write a program to implement the Kruskal's algorithm for minimum spanning tree in a graph.
+88. Write a program to implement the Depth First Search (DFS) algorithm for traversing a graph.
+89. Write a program to implement the Breadth First Search (BFS) algorithm for traversing a graph.
+90. Write a program to implement the A* algorithm for pathfinding in a grid.
+91. Write a program to implement the Manhattan distance heuristic for A* algorithm.
+92. Write a program to implement the Hamming distance heuristic for A* algorithm.
+93. Write a program to implement the Uniform Cost Search (UCS) algorithm for pathfinding in a graph.
+94. Write a program to implement the Best First Search (BFS) algorithm for pathfinding in a graph.
+95. Write a program to implement the Bidirectional Search algorithm for pathfinding in a graph.
+96. Write a program to implement the Travelling Salesman Problem (TSP) using brute force method.
+97. Write a program to implement the Travelling Salesman Problem (TSP) using nearest neighbor method.
+98. Write a program to implement the Travelling Salesman Problem (TSP) using dynamic programming.
+99. Write a program to implement the Greedy algorithm for the Knapsack Problem.
+100. Write a program to implement the Dynamic Programming algorithm for the Knapsack Problem.
